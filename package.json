@@ -2,7 +2,7 @@
   "name": "cdk-pipelines-sample",
   "version": "0.1.0",
   "bin": {
-    "cdk-pipelines-sample": "bin/cdk-pipelines-sample.js"
+    "cdk-pipelines-sample": "bin/cdk.js"
   },
   "scripts": {
     "build": "tsc",
