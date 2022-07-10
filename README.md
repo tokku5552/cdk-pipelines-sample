@@ -1,8 +1,14 @@
-# Welcome to your CDK TypeScript project
+# cdk-pipelines-sample
 
-This is a blank project for TypeScript development with CDK.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+## 環境
+```
+ % node -v
+v16.13.2
+% npm -v
+8.5.5
+% yarn -v
+1.22.18
+```
 
 ## Useful commands
 
